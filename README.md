@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://as2.ftcdn.net/jpg/06/22/33/51/1000_F_622335155_t1SnyWoAkoi9C8zlId5tzufGFcmnWe6q.jpg" alt="Banner" />
+  <img src="banner.jpg" alt="Banner" />
 </p>
 
 # 💫 About Me:
